@@ -99,3 +99,38 @@ form {
   padding-left: 40px;
   background-color: white;
 }
+
+.row-two-title {
+  font-size: 1.25em;
+  padding: 20px 0;
+}
+
+.row-two {
+  padding-bottom: 30px;
+}
+
+.left-form > div,
+.right-form > div {
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
+
+.left-form > div > input,
+.right-form > div > input{
+  width: 225px;
+  height: 25px;
+  font-size: 1.1em;
+}
+
+.row-three {
+  margin-top: 25px;
+}
+
+.row-three > button {
+  margin-bottom: 20px;
+  padding: 10px 50px;
+  background-color: #596D48;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
