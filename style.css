@@ -98,6 +98,7 @@ form {
 .white {
   padding-left: 40px;
   background-color: white;
+  box-shadow: 0 2px 5px gray;
 }
 
 .row-two-title {
@@ -133,4 +134,9 @@ form {
   color: white;
   border: none;
   border-radius: 10px;
+  box-shadow: 2px 2px 5px gray;
+}
+
+.row-three > p > a {
+  color: #596D48;
 }
